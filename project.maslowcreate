@@ -1,0 +1,24 @@
+{
+    "atomType": "Molecule",
+    "name": "mickey",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 665328,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.979633401221996,
+            "y": 0.5,
+            "uniqueID": 738797,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
